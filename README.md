@@ -13,4 +13,4 @@
 
 <!-- <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmchiang1&layout=compact" /> -->
 
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmchiang1" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmchiang1" />
