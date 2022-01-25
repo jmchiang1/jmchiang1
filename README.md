@@ -15,10 +15,8 @@
 
 <!-- <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmchiang1" /> -->
  
-<a href="https://github.com/jmchiang1/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jmchiang1&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/jmchiang1/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmchiang1" />
-</a>
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jmchiang1&show_icons=true&theme=radical" />
+
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmchiang1&layout=compact" />
 
