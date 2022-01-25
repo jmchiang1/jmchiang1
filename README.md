@@ -1,7 +1,7 @@
-## Hi I'm Jonathan, welcome to my page! 👋
+<!-- ## Hi I'm Jonathan, welcome to my page! 👋 -->
 <img src="header.png">
 
-## SKILLS
+<!-- ## SKILLS -->
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) &nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) &nbsp;
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) &nbsp;
