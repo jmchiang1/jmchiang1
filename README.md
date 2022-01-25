@@ -13,7 +13,7 @@
 <div align="center">
  <a href="https://github.com/jmchiang1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmchiang1&show_icons=true&theme=radical" />
-   &nbsp;
+<!--    &nbsp; -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmchiang1&layout=compact" />
 <div/>
 
