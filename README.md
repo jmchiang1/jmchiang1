@@ -12,7 +12,7 @@
 <!-- <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmchiang1" /> -->
  
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jmchiang1&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jmchiang1&show_icons=true&theme=algolia" />
 
 <!--   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmchiang1&layout=compact" /> -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmchiang1&layout=compact&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmchiang1&layout=compact&theme=algolia" />
