@@ -8,7 +8,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) &nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/jmchiang1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmchiang1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmchiang1&layout=compact&langs_count=7&theme=dracula"/>
