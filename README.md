@@ -1,5 +1,5 @@
 <!-- ## Hi I'm Jonathan, welcome to my page! 👋 -->
-<img src="header.png">
+<img src="banner.png">
 
 <!-- ## SKILLS -->
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) &nbsp;
