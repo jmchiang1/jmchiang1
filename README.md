@@ -8,10 +8,17 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) &nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;
 
-
+<!-- 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=jmchiang1&show_icons=true&theme=radical" />
 
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmchiang1&layout=compact" />
 
 <!-- <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmchiang1" /> -->
+ 
+<a href="https://github.com/jmchiang1/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jmchiang1&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/jmchiang1/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmchiang1" />
+</a>
 
